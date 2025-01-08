@@ -1,2 +1,6 @@
 # miPrimerRepo
-Mi primer repositorio yuju
+
+Mi primer repositorio. yuju
+
+Mi primera contribucion local para Gihub
+
